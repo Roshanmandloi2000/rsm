@@ -1,2 +1,3 @@
 # rsm
-this is my sec rep
+this is my second repo
+author roshan mandloi
